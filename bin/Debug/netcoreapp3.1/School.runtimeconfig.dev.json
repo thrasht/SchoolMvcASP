@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/edmon/.dotnet/store/|arch|/|tfm|",
+      "/Users/edmon/.nuget/packages"
+    ]
+  }
+}
